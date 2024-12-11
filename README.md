@@ -8,7 +8,7 @@ This project involves the development of a robust **Face Detection and Recogniti
 
 #### **Key Features**:
 1. **Face Detection**:
-   - Employs Haar cascades or deep learning-based methods like DNN (Deep Neural Networks) for real-time face detection.
+   - Employs Haar cascades for real-time face detection.
    - Capable of detecting multiple faces in an image or video stream.
 
 2. **Face Recognition**:
@@ -29,8 +29,8 @@ This project involves the development of a robust **Face Detection and Recogniti
 
 #### **Technologies Used**:
 - **Programming Language**: Python
-- **Libraries and Frameworks**: OpenCV, NumPy, Dlib, and possibly TensorFlow/Keras for deep learning.
-- **Database**: SQLite or CSV files for face data storage.
+- **Libraries and Frameworks**: OpenCV, NumPy, Dlib.
+- **Database**: CSV files for face data storage.
 
 #### **Applications**:
 - **Security**: Enhances security systems by allowing only authorized personnel access.
