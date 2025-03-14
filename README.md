@@ -1,7 +1,4 @@
 # Face-Detection-and-Recognition-Model-using-Python-and-OpenCV
-Description:
-This project involves the development of a robust Face Detection and Recognition Model using Python and OpenCV. It leverages computer vision techniques and machine learning to identify and verify individuals based on their facial features. The application can be used in various domains such as security systems, attendance monitoring, and user authentication.
-### **Project Title**: Face Detection and Recognition Model using Python and OpenCV
 
 #### **Description**:
 This project involves the development of a robust **Face Detection and Recognition Model** using Python and OpenCV. It leverages computer vision techniques and machine learning to identify and verify individuals based on their facial features. The application can be used in various domains such as security systems, attendance monitoring, and user authentication.
